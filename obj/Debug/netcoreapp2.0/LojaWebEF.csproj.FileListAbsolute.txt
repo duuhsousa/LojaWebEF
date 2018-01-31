@@ -1,0 +1,10 @@
+/Users/duuhlewis/CodeXp/LojaWebEF/bin/Debug/netcoreapp2.0/LojaWebEF.deps.json
+/Users/duuhlewis/CodeXp/LojaWebEF/bin/Debug/netcoreapp2.0/LojaWebEF.runtimeconfig.json
+/Users/duuhlewis/CodeXp/LojaWebEF/bin/Debug/netcoreapp2.0/LojaWebEF.runtimeconfig.dev.json
+/Users/duuhlewis/CodeXp/LojaWebEF/bin/Debug/netcoreapp2.0/LojaWebEF.dll
+/Users/duuhlewis/CodeXp/LojaWebEF/bin/Debug/netcoreapp2.0/LojaWebEF.pdb
+/Users/duuhlewis/CodeXp/LojaWebEF/obj/Debug/netcoreapp2.0/LojaWebEF.csproj.CoreCompileInputs.cache
+/Users/duuhlewis/CodeXp/LojaWebEF/obj/Debug/netcoreapp2.0/LojaWebEF.AssemblyInfoInputs.cache
+/Users/duuhlewis/CodeXp/LojaWebEF/obj/Debug/netcoreapp2.0/LojaWebEF.AssemblyInfo.cs
+/Users/duuhlewis/CodeXp/LojaWebEF/obj/Debug/netcoreapp2.0/LojaWebEF.dll
+/Users/duuhlewis/CodeXp/LojaWebEF/obj/Debug/netcoreapp2.0/LojaWebEF.pdb
